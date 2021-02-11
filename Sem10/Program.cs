@@ -43,5 +43,6 @@ namespace Sem10
 
     internal interface IReader
     {
+
     }
 }
